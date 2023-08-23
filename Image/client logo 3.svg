@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        font-size: 125px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: "Century Gothic";
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 75px;
+      }
+
+      .cls-4 {
+        fill: #00437c;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #29c6dd;
+      }
+
+      .cls-6 {
+        fill: #ff9000;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="117.969" y="273.406" width="764.031" height="452.594" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNzY0LjAzMSIgaGVpZ2h0PSI0NTIuNTk0IiB2aWV3Qm94PSIwIDAgNzY0LjAzMSA0NTIuNTk0Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeDE9IjM4Mi4wMTUiIHkxPSI0NTIuNTk0IiB4Mj0iMzgyLjAxNSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNkOGQ4ZDgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI3NjQuMDMxIiBoZWlnaHQ9IjQ1Mi41OTQiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feFlood result="flood" flood-color="#a7a5a5"/>
+      <feComposite result="composite-2" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in2="blend"/>
+    </filter>
+  </defs>
+  <g class="cls-1">
+    <text id="All_Marine" data-name="All Marine" class="cls-2" transform="translate(158.402 616.311) scale(1.128)">All Marine</text>
+    <text id="D_e_t_a_i_l_i_n_g" data-name="D e t a i l i n g" class="cls-3" transform="translate(163.24 704.776) scale(1.373)">D e t a i l i n g</text>
+    <g>
+      <path class="cls-4" d="M377.706,449.832H282.254S215.721,319.516,143.219,300.343c16.577-7.605,328.189-18.121,508.912,103.406-21.662-8.761-186.8-85.878-421.58-87.5,24.119,30.811,23.863,31.817,23.863,31.817s125.543,3.508,155.109,35.794c-10.6-4.21-94.39-26.933-143.178-11.931,12.835,19.644,31.818,63.634,31.818,63.634S363.149,436.467,377.706,449.832Z"/>
+      <path class="cls-4" d="M699.857,395.8s-144.634-76.321-314.2-103.407c10.656-5.684,116.895-46.439,222.722,43.749C659.731,374.763,687.806,390.927,699.857,395.8Z"/>
+      <path class="cls-4" d="M668.039,356.023s-92.775-67.88-123.292-71.589S603.975,236.487,668.039,356.023Z"/>
+      <path class="cls-5" d="M117.975,515.211s140-79.07,305.012-57.156S688.062,424.9,726.1,389.12s38.769-34.44,38.769-34.44-38.918,133.24-237.4,126.839S260.85,459.422,117.975,515.211Z"/>
+      <path id="Shape_4_copy" data-name="Shape 4 copy" class="cls-6" d="M881.993,379.689s-77.657,7.758-137.013,62.583S630.524,503.214,605.427,499.65s-25.011-2.829-25.011-2.829,52.689,41.993,129.661-16.03S809.7,397.491,881.993,379.689Z"/>
+    </g>
+  </g>
+</svg>

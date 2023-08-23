@@ -1,0 +1,120 @@
+.container {
+    width: calc(100% - 10px);
+    height: 100%;
+    background-image: url("./Image/My\ portfolio\ website\ BG.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-bar {
+    display: flex;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 50px;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 0.5px solid #7c162e;
+    padding: 5px;
+    width: calc(100% - 10px);
+}
+
+.nav-bar-logo {
+    display: flex;
+    margin-right: auto;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 0px;
+}
+
+.nav-bar-menu {
+    color: white;
+    text-decoration: none;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 20px 20px;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: #7c162e;
+}
+
+.nav-bar-CTA {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7c162e;
+    border-radius: 10px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin-left: auto;
+}
+
+h1 {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 250px 100px 0px;
+}
+
+h3 {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px 100px ;
+}
+
+.Nickname {
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.body-cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7c162e;
+    border: solid #7c162e;
+    width: 150px;
+    height: 44px;
+    border-radius: 10px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px 100px;
+
+}
+
+.footer {
+    display: flex;
+    background-color: #7c162e;
+    width: calc(100% - 10px);
+    height: 200px;
+    justify-content: space-around;
+    align-items: center;    
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-top: 350px;
+}
+
+.footer-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    margin: 10px;
+    padding: 20px;
+    opacity: 0.2;
+}
